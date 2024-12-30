@@ -1,0 +1,7 @@
+In, the linked loop code (LLC) is presented as a promising code for the unsourced A-channel with erasures (UACE).
+The UACE is an unsourced multiple access channel in which active users' transmitted symbols are erased with a given
+probability and the channel output is obtained as the union of the non-erased symbols. In this paper, we extend the
+UACE channel model to the unsourced B-channel with erasures (UBCE). The UBCE differs from the UACE in that the channel
+output is the multiset union, or bag union, of the non-erased input symbols. In other words, the UBCE preserves the symbol multiplicity of the channel output while the UACE does not.
+Both the UACE and UBCE find applications in modeling aspects of unsourced random access. The LLC from is enhanced and shown to outperform the tree code over the UBCE.
+Findings are supported by numerical simulations.
